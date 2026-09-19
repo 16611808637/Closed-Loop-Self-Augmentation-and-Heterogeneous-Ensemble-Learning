@@ -1,0 +1,412 @@
+===== Matching Group 1 =====
+Row 17: 0.0, 25.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 630: 0.0, 25.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 712: 0.0, 25.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 2 =====
+Row 18: 5.882352941, 23.52941176, 23.52941176, 0.0, 23.52941176, 23.52941176, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 288: 7.063197026, 23.23420074, 23.23420074, 0.0, 23.23420074, 23.23420074, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 3 =====
+Row 22: 17.94871795, 20.51282051, 20.51282051, 0.0, 20.51282051, 20.51282051, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 23: 17.94871795, 20.51282051, 20.51282051, 0.0, 20.51282051, 20.51282051, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 4 =====
+Row 27: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 28: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 292: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 5 =====
+Row 38: 16.66666667, 16.66666667, 16.66666667, 0.0, 16.66666667, 16.66666667, 0.0, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 504: 16.6666667, 16.6666667, 16.6666667, 0.0, 16.6666667, 16.6666667, 0.0, 16.6666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 6 =====
+Row 39: 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 742: 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 7 =====
+Row 46: 33.33333333, 16.66666667, 16.66666667, 0.0, 16.66666667, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 370: 33.33333333, 16.66666667, 16.66666667, 0.0, 16.66666667, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 8 =====
+Row 48: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 291: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 338: 18.36734694, 20.40816327, 20.40816327, 0.0, 20.40816327, 20.40816327, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 660: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 661: 20.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 9 =====
+Row 49: 20.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 654: 20.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 10 =====
+Row 50: 0.0, 20.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 346: 0.0, 20.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 440: 0.0, 19.83339944, 19.83339944, 19.83339944, 19.83339944, 19.83339944, 0.0, 0.0, 0.0, 0.0, 0.0, 0.833002777, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 441: 0.0, 19.65795164, 19.65795164, 19.65795164, 19.65795164, 19.65795164, 0.0, 0.0, 0.0, 0.0, 0.0, 1.710241793, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 11 =====
+Row 51: 0.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 756: 0.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 12 =====
+Row 53: 19.60784314, 19.60784314, 19.60784314, 0.0, 19.60784314, 19.60784314, 1.960784314, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 54: 19.23076923, 19.23076923, 19.23076923, 0.0, 19.23076923, 19.23076923, 3.846153846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 13 =====
+Row 75: 13.63636364, 18.18181818, 18.18181818, 4.545454545, 18.18181818, 18.18181818, 0.0, 9.090909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 502: 13.6363636, 18.1818182, 18.1818182, 4.5454545, 18.1818182, 18.1818182, 0.0, 9.0909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 14 =====
+Row 76: 0.0, 18.18181818, 18.18181818, 18.18181818, 18.18181818, 18.18181818, 0.0, 9.090909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 741: 0.0, 18.1818182, 18.1818182, 18.1818182, 18.1818182, 18.1818182, 0.0, 9.0909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 15 =====
+Row 78: 18.18181818, 18.18181818, 18.18181818, 0.0, 18.18181818, 18.18181818, 0.0, 9.090909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 503: 18.1818182, 18.1818182, 18.1818182, 0.0, 18.1818182, 18.1818182, 0.0, 9.0909091, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 16 =====
+Row 83: 1.960784314, 19.60784314, 19.60784314, 0.0, 19.60784314, 19.60784314, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.60784314, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 331: 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 332: 1.960784314, 19.60784314, 19.60784314, 0.0, 19.60784314, 19.60784314, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.60784314, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 341: 0.0, 19.65795164, 19.65795164, 0.0, 19.65795164, 19.65795164, 1.710241793, 0.0, 0.0, 0.0, 0.0, 0.0, 19.65795164, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 663: 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 17 =====
+Row 84: 3.846153846, 19.23076923, 19.23076923, 0.0, 19.23076923, 19.23076923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.23076923, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 333: 5.660377358, 18.86792453, 18.86792453, 0.0, 18.86792453, 18.86792453, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.86792453, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 18 =====
+Row 85: 7.063197026, 18.58736059, 18.58736059, 0.0, 18.58736059, 18.58736059, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.58736059, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 86: 7.918968692, 18.41620626, 18.41620626, 0.0, 18.41620626, 18.41620626, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.41620626, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 87: 8.925318761, 18.21493625, 18.21493625, 0.0, 18.21493625, 18.21493625, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.21493625, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 616: 6.9860279, 18.5628743, 18.762475, 0.0, 18.5628743, 18.5628743, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.5628743, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 19 =====
+Row 88: 10.07194245, 17.98561151, 17.98561151, 0.0, 17.98561151, 17.98561151, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 17.98561151, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 570: 9.0909091, 18.1818182, 18.1818182, 0.0, 18.1818182, 18.1818182, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.1818182, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 694: 9.0909091, 18.1818182, 18.1818182, 0.0, 18.1818182, 18.1818182, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.1818182, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 20 =====
+Row 101: 0.0, 18.18181818, 18.18181818, 0.0, 18.18181818, 18.18181818, 0.0, 0.0, 0.0, 0.0, 0.0, 9.090909091, 18.18181818, 0.0, 0.0, FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 313: 0.0, 18.18181818, 18.18181818, 0.0, 18.18181818, 18.18181818, 0.0, 0.0, 0.0, 0.0, 0.0, 9.090909091, 18.18181818, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 21 =====
+Row 108: 25.0, 0.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 506: 25.0, 0.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 22 =====
+Row 110: 23.80952381, 0.0, 23.80952381, 0.0, 23.80952381, 23.80952381, 4.761904762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 507: 23.8095238, 0.0, 23.8095238, 0.0, 23.8095238, 23.8095238, 4.7619048, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 23 =====
+Row 111: 22.22222222, 0.0, 22.22222222, 0.0, 22.22222222, 22.22222222, 11.11111111, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 508: 22.2222222, 0.0, 22.2222222, 0.0, 22.2222222, 22.2222222, 11.1111111, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 24 =====
+Row 116: 9.090909091, 18.18181818, 18.18181818, 18.18181818, 18.18181818, 18.18181818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 714: 9.0909091, 18.1818182, 18.1818182, 18.1818182, 18.1818182, 18.1818182, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 25 =====
+Row 137: 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 321: 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 479: 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST,  A D B M , B O N S A .A critical review of high entropy alloys and related concepts[J].Acta Materialia, 2017, 122:448-511.DOI:10.1016/j.actamat.2016.08.081.
+Row 559: 16.6666667, 16.6666667, 16.6666667, 16.6666667, 16.6666667, 16.6666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 26 =====
+Row 138: 20.0, 20.0, 0.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 415: 20.0, 20.0, 0.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 27 =====
+Row 141: 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 14.28571429, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 650: 14.2857143, 14.2857143, 14.2857143, 14.2857143, 14.2857143, 14.2857143, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 14.2857143, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 28 =====
+Row 142: 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 0.0, 14.28571429, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 622: 14.2857143, 14.2857143, 14.2857143, 14.2857143, 14.2857143, 14.2857143, 0.0, 14.2857143, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 29 =====
+Row 158: 16.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.66666667, 0.0, 16.66666667, 16.66666667, 0.0, 0.0, 16.66666667, 16.66666667, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 605: 16.6666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.6666667, 0.0, 16.6666667, 16.6666667, 0.0, 0.0, 16.6666667, 16.6666667, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 30 =====
+Row 159: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 20.0, 20.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 589: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 20.0, 20.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 31 =====
+Row 170: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 12.5, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 12.5, 25.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 246: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 12.5, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 12.5, 25.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 32 =====
+Row 174: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.66666667, 16.66666667, 0.0, 16.66666667, 16.66666667, 0.0, 0.0, 16.66666667, 16.66666667, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 744: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.6666667, 16.6666667, 0.0, 16.6666667, 16.6666667, 0.0, 0.0, 16.6666667, 16.6666667, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 33 =====
+Row 177: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 657: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 34 =====
+Row 219: 1.538461538, 12.30769231, 12.30769231, 12.30769231, 12.30769231, 12.30769231, 0.0, 12.30769231, 0.0, 0.0, 0.0, 12.30769231, 12.30769231, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 220: 3.03030303, 12.12121212, 12.12121212, 12.12121212, 12.12121212, 12.12121212, 0.0, 12.12121212, 0.0, 0.0, 0.0, 12.12121212, 12.12121212, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 222: 0.0, 12.5, 12.5, 12.5, 12.5, 12.5, 0.0, 12.5, 0.0, 0.0, 0.0, 12.5, 12.5, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 35 =====
+Row 223: 3.567984571, 0.0, 0.0, 32.14400514, 0.0, 32.14400514, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 32.14400514, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 224: 1.73599738, 0.0, 0.0, 32.75466754, 0.0, 32.75466754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 32.75466754, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 36 =====
+Row 225: 28.57142857, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 348: 28.57142857, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 14.28571429, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 37 =====
+Row 226: 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 484: 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 38 =====
+Row 227: 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 359: 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 39 =====
+Row 229: 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.0, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 466: 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.0, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 40 =====
+Row 238: 0.0, 22.72727273, 22.72727273, 0.0, 0.0, 0.0, 22.72727273, 9.090909091, 0.0, 22.72727273, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 594: 0.0, 22.7272727, 22.7272727, 0.0, 0.0, 0.0, 22.7272727, 9.0909091, 0.0, 22.7272727, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 715: 0.0, 22.7272727, 22.7272727, 0.0, 0.0, 0.0, 22.7272727, 9.0909091, 0.0, 22.7272727, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 41 =====
+Row 242: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 243: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 42 =====
+Row 244: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 585: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 43 =====
+Row 250: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 20.0, 20.0, BCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 251: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 20.0, 20.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 44 =====
+Row 258: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 29.41176471, 0.0, 0.0, 11.76470588, 0.0, 0.0, 29.41176471, 29.41176471, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 533: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 29.4117647, 0.0, 0.0, 11.7647059, 0.0, 0.0, 29.4117647, 29.4117647, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 45 =====
+Row 259: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 28.57142857, 0.0, 0.0, 14.28571429, 0.0, 0.0, 28.57142857, 28.57142857, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 532: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 28.5714286, 0.0, 0.0, 14.2857143, 0.0, 0.0, 28.5714286, 28.5714286, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 46 =====
+Row 260: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.77777778, 0.0, 0.0, 16.66666667, 0.0, 0.0, 27.77777778, 27.77777778, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 531: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.7777778, 0.0, 0.0, 16.6666667, 0.0, 0.0, 27.7777778, 27.7777778, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 47 =====
+Row 266: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 755: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 48 =====
+Row 273: 10.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 20.0, 0.0, 10.0, 0.0, 0.0, 0.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 738: 10.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 20.0, 0.0, 10.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 49 =====
+Row 277: 6.976744186, 23.25581395, 23.25581395, 0.0, 23.25581395, 23.25581395, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 286: 7.063197026, 23.23420074, 23.23420074, 0.0, 23.23420074, 23.23420074, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 287: 7.063197026, 23.23420074, 23.23420074, 0.0, 23.23420074, 23.23420074, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 50 =====
+Row 283: 0.0, 20.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 355: 0.0, 20.60606061, 19.89550679, 0.0, 19.4984326, 20.89864159, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.10135841, 0.0, 0.0, BCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 356: 0.0, 20.60606061, 19.89550679, 0.0, 19.4984326, 20.89864159, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.10135841, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 357: 0.0, 20.60606061, 19.89550679, 0.0, 19.4984326, 20.89864159, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 19.10135841, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 51 =====
+Row 289: 7.063197026, 23.23420074, 23.23420074, 0.0, 23.23420074, 23.23420074, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 726: 6.9767442, 23.255814, 23.255814, 0.0, 23.255814, 23.255814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 52 =====
+Row 296: 0.0, 35.00175009, 15.01575079, 0.0, 19.9859993, 19.9859993, 10.01050053, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 297: 0.0, 35.00175009, 15.01575079, 0.0, 19.9859993, 19.9859993, 10.01050053, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 53 =====
+Row 298: 0.0, 23.23420074, 23.23420074, 0.0, 23.23420074, 23.23420074, 7.063197026, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 637: 0.0, 23.25, 23.25, 0.0, 23.25, 23.25, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 54 =====
+Row 301: 3.929411765, 23.52941176, 23.52941176, 0.0, 23.52941176, 23.52941176, 0.0, 1.952941176, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 324: 2.43902439, 24.3902439, 24.3902439, 0.0, 24.3902439, 24.3902439, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 55 =====
+Row 302: 10.00719942, 24.98200144, 7.991360691, 0.0, 15.01079914, 35.99712023, 0.0, 6.011519078, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 368: 10.00719942, 24.98200144, 7.991360691, 0.0, 15.01079914, 35.99712023, 0.0, 6.011519078, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 56 =====
+Row 315: 16.78712221, 16.78712221, 16.78712221, 0.0, 16.78712221, 32.85151117, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 680: 16.5289256, 16.5289256, 16.5289256, 0.0, 16.5289256, 33.0578512, 0.8264463, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 750: 16.3934426, 16.3934426, 16.3934426, 0.0, 16.3934426, 34.4262295, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 57 =====
+Row 328: 13.98344066, 0.0, 20.00919963, 0.0, 20.00919963, 45.99816007, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 329: 11.99616123, 0.0, 20.00959693, 0.0, 20.00959693, 47.98464491, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 58 =====
+Row 337: 13.04347826, 21.73913043, 21.73913043, 0.0, 21.73913043, 21.73913043, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 512: 11.1111111, 22.2222222, 22.2222222, 0.0, 22.2222222, 22.2222222, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 513: 11.1111111, 22.2222222, 22.2222222, 0.0, 22.2222222, 22.2222222, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 59 =====
+Row 340: 0.0, 19.83339944, 19.83339944, 0.0, 19.83339944, 19.83339944, 0.833002777, 0.0, 0.0, 0.0, 0.0, 0.0, 19.83339944, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 342: 0.0, 19.47040498, 19.47040498, 0.0, 19.47040498, 19.47040498, 2.647975078, 0.0, 0.0, 0.0, 0.0, 0.0, 19.47040498, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 60 =====
+Row 366: 0.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 367: 0.0, 0.0, 20.0, 20.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 61 =====
+Row 385: 6.25, 0.0, 20.83333333, 10.41666667, 20.83333333, 41.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 386: 6.25, 0.0, 20.83333333, 10.41666667, 20.83333333, 41.66666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, WROUGHT, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 62 =====
+Row 396: 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 25.0, 25.0, 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, IM, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 469: 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 25.0, 25.0, 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, BCC, ANNEAL, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+
+===== Matching Group 63 =====
+Row 411: 0.0, 24.09638554, 24.09638554, 0.0, 24.09638554, 24.09638554, 3.614457831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 681: 0.0, 23.8095238, 23.8095238, 0.0, 23.8095238, 23.8095238, 4.7619048, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 64 =====
+Row 435: 0.0, 10.0, 10.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, IM, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 635: 0.0, 10.0, 10.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 65 =====
+Row 437: 18.00433839, 29.99690115, 10.00929656, 0.0, 10.00929656, 30.98853424, 0.991633096, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 747: 18.0, 30.0, 10.0, 0.0, 10.0, 30.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 66 =====
+Row 444: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 25.0, BCC, CAST, Borg C K H , Frey C , Moh J ,et al.Expanded dataset of mechanical properties and observed s of multi-principal element alloys[J].Scientific Data, 2020, 7(1).DOI:10.1038/s41597-020-00768-9.
+Row 621: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.0, 0.0, 25.0, 25.0, 0.0, 0.0, 0.0, 25.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 67 =====
+Row 478: 8.333333333, 16.66666667, 16.66666667, 8.333333333, 16.66666667, 33.33333333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST,  A D B M , B O N S A .A critical review of high entropy alloys and related concepts[J].Acta Materialia, 2017, 122:448-511.DOI:10.1016/j.actamat.2016.08.081.
+Row 732: 8.0, 17.0, 17.0, 8.0, 17.0, 33.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 68 =====
+Row 483: 22.2222222, 0.0, 11.1111111, 0.0, 0.0, 0.0, 0.0, 22.2222222, 0.0, 22.2222222, 0.0, 22.2222222, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 651: 22.2222222, 0.0, 11.1111111, 0.0, 0.0, 0.0, 0.0, 22.2222222, 0.0, 22.2222222, 0.0, 22.2222222, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 69 =====
+Row 515: 19.2307692, 19.2307692, 19.2307692, 0.0, 19.2307692, 19.2307692, 0.0, 3.8461538, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 516: 19.2307692, 19.2307692, 19.2307692, 0.0, 19.2307692, 19.2307692, 0.0, 3.8461538, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 664: 19.2307692, 19.2307692, 19.2307692, 0.0, 19.2307692, 19.2307692, 0.0, 3.8461538, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 70 =====
+Row 518: 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 25.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 708: 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 25.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 71 =====
+Row 530: 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 0.0, 20.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 669: 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 20.0, 0.0, 0.0, 20.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 72 =====
+Row 542: 11.1111111, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2222222, 0.0, 22.2222222, 0.0, 0.0, 0.0, 22.2222222, 22.2222222, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 733: 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.5, 0.0, 22.5, 0.0, 0.0, 0.0, 22.5, 22.5, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 734: 12.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.0, 0.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 73 =====
+Row 547: 9.8039216, 0.0, 17.6470588, 0.0, 19.6078431, 49.0196078, 0.0, 0.0, 0.0, 0.0, 0.0, 3.9215686, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 674: 9.8039216, 0.0, 17.6470588, 0.0, 19.6078431, 49.0196078, 0.0, 0.0, 0.0, 0.0, 0.0, 3.9215686, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 74 =====
+Row 548: 0.0526039, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 42.0831142, 0.0, 25.2498685, 0.0, 5.2603893, 0.0, 0.0, 27.3540242, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 676: 0.0526039, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 42.0831142, 0.0, 25.2498685, 0.0, 5.2603893, 0.0, 0.0, 27.3540242, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 75 =====
+Row 550: 0.0, 23.8095238, 23.8095238, 0.0, 23.8095238, 23.8095238, 0.0, 4.7619048, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 752: 0.0, 23.8095238, 23.8095238, 0.0, 23.8095238, 23.8095238, 0.0, 4.7619048, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 76 =====
+Row 553: 0.0, 20.0, 26.0, 0.0, 20.0, 14.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 629: 0.0, 20.0, 26.0, 0.0, 20.0, 14.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 746: 0.0, 20.0, 26.0, 0.0, 20.0, 14.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 77 =====
+Row 554: 0.0, 0.0, 22.4719101, 0.0, 0.0, 0.0, 0.0, 42.4719101, 0.0, 22.4719101, 0.0, 12.5842697, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 678: 0.0, 0.0, 22.4719101, 0.0, 0.0, 0.0, 0.0, 42.4719101, 0.0, 22.4719101, 0.0, 12.5842697, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 78 =====
+Row 566: 26.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.1, 0.0, 23.8, 0.0, 24.5, 0.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 729: 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 25.0, 0.0, 25.0, 0.0, 25.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 79 =====
+Row 567: 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 568: 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 692: 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 80 =====
+Row 572: 2.4390244, 24.3902439, 24.3902439, 0.0, 24.3902439, 24.3902439, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 713: 4.0, 23.5, 23.5, 0.0, 23.5, 23.5, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 81 =====
+Row 575: 0.0, 20.0, 10.0, 0.0, 45.0, 15.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 748: 0.0, 20.0, 10.0, 0.0, 45.0, 15.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 82 =====
+Row 577: 0.0, 10.0, 15.0, 0.0, 35.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 5.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 704: 0.0, 10.0, 15.0, 0.0, 35.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 5.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 83 =====
+Row 578: 0.0, 17.5, 12.5, 0.0, 55.0, 10.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 705: 0.0, 17.5, 12.5, 0.0, 55.0, 10.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 84 =====
+Row 579: 0.0, 18.0904523, 12.0603015, 0.0, 55.2763819, 7.0351759, 7.5376884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 706: 0.0, 18.0904523, 12.0603015, 0.0, 55.2763819, 7.0351759, 7.5376884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 85 =====
+Row 603: 3.7037037, 18.5185185, 18.5185185, 3.7037037, 18.5185185, 37.037037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 735: 3.7037037, 18.5185185, 18.5185185, 3.7037037, 18.5185185, 37.037037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 86 =====
+Row 604: 5.6603774, 0.0, 18.8679245, 18.8679245, 18.8679245, 37.7358491, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 736: 5.6603774, 0.0, 18.8679245, 18.8679245, 18.8679245, 37.7358491, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 87 =====
+Row 624: 0.0, 30.0, 10.0, 0.0, 45.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 700: 0.0, 30.0, 10.0, 0.0, 45.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 88 =====
+Row 625: 0.0, 35.0, 10.0, 0.0, 45.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, BCC+FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 701: 0.0, 35.0, 10.0, 0.0, 45.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 89 =====
+Row 628: 0.0, 26.0, 18.5, 0.0, 18.5, 18.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.5, 0.0, 0.0, FCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 745: 0.0, 26.0, 18.5, 0.0, 18.5, 18.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.5, 0.0, 0.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 90 =====
+Row 632: 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 24.0, 0.0, 5.0, 0.0, 0.0, 26.0, BCC, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+Row 749: 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 24.0, 0.0, 5.0, 0.0, 0.0, 26.0, IM, CAST, Machaka, Ronald (2021), “Dataset for High-Entropy Alloys Phases”, Mendeley Data, V2, doi: 10.17632/7fhwrgfh2s.2
+
+===== Matching Group 91 =====
+Row 769: 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC+FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 776: 20.0, 0.0, 20.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, BCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+===== Matching Group 92 =====
+Row 799: 0.0, 18.1818, 18.1818, 0.0, 18.1818, 18.1818, 0.0, 9.0909, 0.0, 0.0, 0.0, 0.0, 18.1818, 0.0, 0.0, BCC+FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 809: 0.0, 17.8571, 17.8571, 0.0, 17.8571, 17.8571, 0.0, 10.7143, 0.0, 0.0, 0.0, 0.0, 17.8571, 0.0, 0.0, IM, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+===== Matching Group 93 =====
+Row 802: 0.0, 19.0476, 19.0476, 0.0, 19.0476, 19.0476, 0.0, 4.7619, 0.0, 0.0, 0.0, 0.0, 19.0476, 0.0, 0.0, IM, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 808: 0.0, 19.2308, 19.2308, 0.0, 19.2308, 19.2308, 0.0, 3.8462, 0.0, 0.0, 0.0, 0.0, 19.2308, 0.0, 0.0, BCC+FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+===== Matching Group 94 =====
+Row 851: 0.0, 20.0, 40.0, 0.0, 20.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 852: 0.0, 19.6078, 39.2157, 0.0, 19.6078, 19.6078, 1.9608, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, IM, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+===== Matching Group 95 =====
+Row 865: 9.0909, 18.1818, 18.1818, 18.1818, 18.1818, 18.1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 974: 9.0909, 18.1818, 18.1818, 18.1818, 18.1818, 18.1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+===== Matching Group 96 =====
+Row 901: 14.8936, 21.2766, 21.2766, 0.0, 21.2766, 21.2766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC+FCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+Row 934: 16.6667, 20.8333, 20.8333, 0.0, 20.8333, 20.8333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BCC, AM, Chao Zhou, Youzhi Zhang, Heyang Xin, Xiaomin Li, Xizhang Chen, Complex multiphase predicting of additive manufactured high entropy alloys based on data augmentation deep learning, Journal of Materials Research and Technology, 28, 2024: 2388-2401. https://doi.org/10.1016/j.jmrt.2023.12.181.
+
+Total matching groups removed: 96
+Total removed data rows: 218
