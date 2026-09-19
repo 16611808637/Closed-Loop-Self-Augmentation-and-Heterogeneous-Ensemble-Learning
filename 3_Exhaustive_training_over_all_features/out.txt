@@ -1,0 +1,13 @@
+================================================================================
+Optimal Feature Combination Result
+================================================================================
+Uniform Rule for all models: must contain 'Pm' feature + at least 1 features, select max F1 Score
+Sum of F1_Score scores across 5 models: 4.2714
+
+Selected feature group and F1_Score for each model:
+ KNN: [Pm, ρ, α, ad-e/n, δ-e/n, δ-Ec] (F1 Score: 0.8229, Feature count:6)
+ CATboost: [Pm, ΔS, ad-e/n, ad-HD, ad-G, δ-χ, δ-EWF, δ-HD, δ-G] (F1 Score: 0.8626, Feature count:9)
+ LightGBM: [Pm, e/a, EWF, ad-e/n, δ-e/n, δ-ρ, δ-Ec, δ-G, δ-υ] (F1 Score: 0.8783, Feature count:9)
+ RF: [Pm, ΔS, EWF, ad-e/n, δ-VEC, δ-EWF, δ-G, δ-G/B] (F1 Score: 0.8471, Feature count:8)
+ XGBoost: [Pm, Ω, e/a, EWF, G, ad-e/n, ad-G, δ-e/n, δ-ρ] (F1 Score: 0.8605, Feature count:9)
+================================================================================
