@@ -1,0 +1,20 @@
+Running TabFM classification model... (Note: compilation and model execution may take a few minutes on first run)
+Fetching 134 files:   0%|          | 0/134 [00:00<?, ?it/s]Fetching 134 files:  36%|███▌      | 48/134 [00:00<00:00, 474.58it/s]Fetching 134 files: 100%|██████████| 134/134 [00:00<00:00, 844.52it/s]
+WARNING:absl:CheckpointManagerOptions.read_only=True, setting save_interval_steps=0.
+WARNING:absl:CheckpointManagerOptions.read_only=True, setting create=False.
+WARNING:absl:Given directory is read only=/work/home/lpkkokjo/.cache/huggingface/hub/models--google--tabfm-1.0.0-jax/snapshots/d5e74033fcf257699fab013e2cdd7edf424ff904/classification/orbax
+Prediction saved to test_result.csv
+            Al       Co         Cr  ...  prob_FCC   prob_IM  pred_label
+0    15.384600   0.0000   0.000000  ...  0.008966  0.106186     BCC+FCC
+1     0.000000   0.0000   0.000000  ...  0.000006  0.004422         BCC
+2    11.764700   0.0000  11.764700  ...  0.000284  0.974950          IM
+3    21.052632   0.0000  21.052632  ...  0.000857  0.953332          IM
+4    14.285700   0.0000  14.285700  ...  0.000199  0.978040          IM
+..         ...      ...        ...  ...       ...       ...         ...
+121  10.000000  21.0000  18.000000  ...  0.180978  0.564267          IM
+122   0.000000  27.0000  20.000000  ...  0.872550  0.069179         FCC
+123  25.000000   0.0000   0.000000  ...  0.002052  0.289023         BCC
+124   6.993000   6.9930   0.000000  ...  0.001313  0.000517     BCC+FCC
+125  15.094300  18.8679  18.867900  ...  0.035161  0.013950     BCC+FCC
+
+[126 rows x 22 columns]
