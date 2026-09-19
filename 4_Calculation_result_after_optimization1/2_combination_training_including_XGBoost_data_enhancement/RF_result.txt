@@ -1,0 +1,31 @@
+====== RandomForest‑Optuna Best Model Evaluation ======
+Best hyper‑parameters: {'n_estimators': 352, 'max_depth': 6, 'max_features': 'sqrt', 'min_samples_split': 6, 'min_samples_leaf': 3, 'random_state': 20, 'n_jobs': 2, 'class_weight': {'IM': 0.8564132814297496, 'FCC': 1.2905090212139498, 'BCC+FCC': 0.8521910045269906, 'BCC': 1.2317155871674406}}
+5‑fold CV Macro‑F1: 0.8471
+
+Accuracy: 0.8423
+Weighted F1‑score: 0.8411
+Macro F1‑score: 0.8339
+
+====== Confusion Matrix ======
+[[28  4  1  4]
+ [ 1 70  1  4]
+ [ 0  1 30  2]
+ [ 7  5  5 59]]
+
+====== Per‑class Recall ======
+Class BCC : Recall = 0.7568
+Class BCC+FCC : Recall = 0.9211
+Class FCC : Recall = 0.9091
+Class IM : Recall = 0.7763
+
+====== Sklearn Classification Report ======
+              precision    recall  f1-score   support
+
+         BCC       0.78      0.76      0.77        37
+     BCC+FCC       0.88      0.92      0.90        76
+         FCC       0.81      0.91      0.86        33
+          IM       0.86      0.78      0.81        76
+
+    accuracy                           0.84       222
+   macro avg       0.83      0.84      0.83       222
+weighted avg       0.84      0.84      0.84       222

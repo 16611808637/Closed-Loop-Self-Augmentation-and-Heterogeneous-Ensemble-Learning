@@ -1,0 +1,30 @@
+====== LightGBM‑Bayesian‑Opt Final Evaluation (5‑fold CV tuning) ======
+Best parameters: {'random_state': 20, 'verbosity': -1, 'n_estimators': 250, 'max_depth': 7, 'colsample_bytree': np.float64(0.6809322260636084), 'class_weight': 'balanced', 'min_child_samples': 16, 'min_child_weight': 0.001, 'learning_rate': np.float64(0.10911499347218882), 'reg_alpha': np.float64(0.23574244354253504), 'reg_lambda': np.float64(3.329198776726841), 'n_jobs': 2}
+
+Accuracy: 0.8396
+Weighted‑F1: 0.8390
+Macro‑F1: 0.8434
+
+====== Confusion Matrix ======
+[[35  3  1  4]
+ [ 1 44  2  4]
+ [ 0  0 31  1]
+ [ 9  1  4 47]]
+
+====== Per‑class Recall ======
+Class BCC : Recall = 0.8140
+Class BCC+FCC : Recall = 0.8627
+Class FCC : Recall = 0.9688
+Class IM : Recall = 0.7705
+
+====== Classification Report ======
+              precision    recall  f1-score   support
+
+         BCC       0.78      0.81      0.80        43
+     BCC+FCC       0.92      0.86      0.89        51
+         FCC       0.82      0.97      0.89        32
+          IM       0.84      0.77      0.80        61
+
+    accuracy                           0.84       187
+   macro avg       0.84      0.85      0.84       187
+weighted avg       0.84      0.84      0.84       187

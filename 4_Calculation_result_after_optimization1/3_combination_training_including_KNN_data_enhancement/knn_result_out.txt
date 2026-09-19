@@ -1,0 +1,30 @@
+====== Bayesian Optimized KNN Final Evaluation (5‑fold CV no leakage) ======
+Best hyper‑parameters: {'n_neighbors': 7, 'weights': 'distance', 'metric': 'minkowski', 'p': 5, 'leaf_size': 30, 'n_jobs': 2}
+
+Accuracy: 0.8663
+Weighted F1‑Score: 0.8657
+Macro F1‑Score: 0.8676
+
+====== Confusion Matrix ======
+[[37  2  0  4]
+ [ 0 48  1  2]
+ [ 0  2 27  3]
+ [ 6  3  2 50]]
+
+====== Per‑class Recall ======
+Class BCC: Recall = 0.8605
+Class BCC+FCC: Recall = 0.9412
+Class FCC: Recall = 0.8438
+Class IM: Recall = 0.8197
+
+====== Sklearn Classification Report ======
+              precision    recall  f1-score   support
+
+         BCC       0.86      0.86      0.86        43
+     BCC+FCC       0.87      0.94      0.91        51
+         FCC       0.90      0.84      0.87        32
+          IM       0.85      0.82      0.83        61
+
+    accuracy                           0.87       187
+   macro avg       0.87      0.87      0.87       187
+weighted avg       0.87      0.87      0.87       187

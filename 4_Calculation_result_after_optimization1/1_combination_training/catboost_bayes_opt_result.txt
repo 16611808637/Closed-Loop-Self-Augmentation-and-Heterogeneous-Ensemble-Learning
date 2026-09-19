@@ -1,0 +1,31 @@
+====== CatBoost‑Bayesian Optimized Final Evaluation (5‑fold CV no leakage) ======
+Best hyper‑parameters: {'iterations': 550, 'depth': 5, 'learning_rate': 0.08343974891259105, 'l2_leaf_reg': 1.8614883839949241, 'min_data_in_leaf': 13, 'subsample': 0.6330501027300484, 'colsample_bylevel': 0.7698988391599838, 'random_strength': 0.5288793587031757, 'random_state': 20, 'verbose': 0, 'thread_count': 2, 'auto_class_weights': 'Balanced', 'bootstrap_type': 'Bernoulli'}
+
+5‑fold CV mean Macro‑F1: 0.6826
+Accuracy: 0.6733
+Weighted F1‑score: 0.6799
+Macro F1‑score: 0.6604
+
+====== Confusion Matrix ======
+[[15  6  0  7]
+ [ 0 11  1  2]
+ [ 0  2  9  2]
+ [ 4  7  2 33]]
+
+====== Per‑class Recall ======
+Class BCC : Recall = 0.5357
+Class BCC+FCC : Recall = 0.7857
+Class FCC : Recall = 0.6923
+Class IM : Recall = 0.7174
+
+====== Sklearn Classification Report ======
+              precision    recall  f1-score   support
+
+         BCC       0.79      0.54      0.64        28
+     BCC+FCC       0.42      0.79      0.55        14
+         FCC       0.75      0.69      0.72        13
+          IM       0.75      0.72      0.73        46
+
+    accuracy                           0.67       101
+   macro avg       0.68      0.68      0.66       101
+weighted avg       0.72      0.67      0.68       101

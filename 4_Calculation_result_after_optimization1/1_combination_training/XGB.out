@@ -1,0 +1,43 @@
+XGBoost Model Training and Test Results
+============================================================
+Bayesian optimized 5‑fold CV Macro‑F1: 0.6904
+Best hyper‑parameters:
+  n_estimators: 286
+  max_depth: 12
+  learning_rate: 0.02
+  subsample: 1.0
+  colsample_bytree: 1.0
+  gamma: 0.0
+  min_child_weight: 2
+  random_state: 20
+  use_label_encoder: False
+  eval_metric: mlogloss
+  n_jobs: 2
+============================================================
+Test Accuracy: 0.7129
+Test Macro‑F1: 0.6736
+Test Weighted‑F1: 0.7106
+
+Test Confusion Matrix:
+[[16  6  1  5]
+ [ 0  8  2  4]
+ [ 0  1 10  2]
+ [ 5  0  3 38]]
+
+====== Per‑class Recall ======
+Class 0: Recall = 0.5714
+Class 1: Recall = 0.5714
+Class 2: Recall = 0.7692
+Class 3: Recall = 0.8261
+
+====== Full Classification Report ======
+              precision    recall  f1-score   support
+
+           0       0.76      0.57      0.65        28
+           1       0.53      0.57      0.55        14
+           2       0.62      0.77      0.69        13
+           3       0.78      0.83      0.80        46
+
+    accuracy                           0.71       101
+   macro avg       0.67      0.68      0.67       101
+weighted avg       0.72      0.71      0.71       101
